@@ -1,0 +1,2 @@
+# didactic-memory
+노션에 넣을 프로젝트 연습입니다.
